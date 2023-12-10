@@ -105,8 +105,12 @@ namespace UstaYardımAPI.Controllers
                     new { token = GenarateJWt(user)}
                 );
             }
+            else
+            {
+                return Unauthorized(new { message = "Yanlış şifre girdiniz."});
+            }
 
-            return Unauthorized(); // status code 403 yetkin yok 
+            //return Unauthorized(); // status code 403 yetkin yok 
         }
 
         private object GenarateJWt(AppUser user)
