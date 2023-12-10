@@ -28,3 +28,4 @@ C:\Users\sefad\source\repos\ders\ders\obj\Debug\net7.0\refint\ders.dll
 C:\Users\sefad\source\repos\ders\ders\obj\Debug\net7.0\ders.pdb
 C:\Users\sefad\source\repos\ders\ders\obj\Debug\net7.0\ders.genruntimeconfig.cache
 C:\Users\sefad\source\repos\ders\ders\obj\Debug\net7.0\ref\ders.dll
+C:\Users\sefad\source\repos\ders\ders\obj\Debug\net7.0\ders.sourcelink.json

@@ -89,7 +89,6 @@ namespace ProductsAPI.Controllers
         }
 
         [HttpDelete("{id}")]
-
         public async Task<IActionResult> DeleteProduct(int? id){
 
             if (id == null)
